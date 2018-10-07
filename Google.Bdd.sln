@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Bdd", "Google.Bdd\Google.Bdd.csproj", "{BD2AEAA3-45A3-4B4C-B27B-89138BDF61D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2AEAA3-45A3-4B4C-B27B-89138BDF61D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2AEAA3-45A3-4B4C-B27B-89138BDF61D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2AEAA3-45A3-4B4C-B27B-89138BDF61D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2AEAA3-45A3-4B4C-B27B-89138BDF61D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52ED5DE8-0A5C-47DF-867A-F3DA310695CD}
+	EndGlobalSection
+EndGlobal

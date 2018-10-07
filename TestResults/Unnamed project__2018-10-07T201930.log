@@ -1,0 +1,23 @@
+﻿2018-10-07T20:19:30.2033433+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-10-07T20:19:30.2043426+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.3 execution started
+2018-10-07T20:19:30.2043426+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Yaswanth\source\repos\Google\packages\SpecRun.Runner.1.8.3\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-10-07T20:19:30.2333627+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-10-07T20:19:30.2333627+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Yaswanth\source\repos\Google\Google\bin\Debug\Google.dll
+2018-10-07T20:19:30.2333627+05:30;VSTestExecutionThread;Info;Profile: 
+2018-10-07T20:19:44.3263621+05:30;Thread#17;Info;Discovering target: Default
+Test Suite Dump
+#0: Unnamed project/ - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
